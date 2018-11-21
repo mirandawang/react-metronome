@@ -18,7 +18,7 @@ Then:
 
 3) Press the Start button.
 
-4) Use the toggles, buttons, and dropdowns to customize the metronome to your liking.
+4) Use the slider, buttons, and dropdowns to customize the metronome to your liking.
 
 ...
 
